@@ -2774,6 +2774,10 @@
     (stroke (width 0) (type default))
     (uuid 07933d79-6c2c-4097-85cc-bed9e47aaafe)
   )
+  (wire (pts (xy 34.29 167.64) (xy 35.56 167.64))
+    (stroke (width 0) (type default))
+    (uuid 085115e8-422e-4249-8269-b8d3bc3f85b9)
+  )
   (wire (pts (xy 208.28 41.91) (xy 209.55 41.91))
     (stroke (width 0) (type default))
     (uuid 08dc738d-d458-4d47-adc2-f1a681f4aea9)
@@ -2806,7 +2810,7 @@
     (stroke (width 0) (type default))
     (uuid 12a6e32e-ba46-435a-a8c0-536815846242)
   )
-  (wire (pts (xy 22.86 185.42) (xy 24.13 185.42))
+  (wire (pts (xy 22.86 189.23) (xy 24.13 189.23))
     (stroke (width 0) (type default))
     (uuid 12a6fab1-52d3-47bd-801b-f4ae452ae93f)
   )
@@ -2946,7 +2950,11 @@
     (stroke (width 0) (type default))
     (uuid 2d2a9da6-b536-464c-afa4-76f529dffc2d)
   )
-  (wire (pts (xy 24.13 180.34) (xy 24.13 179.07))
+  (wire (pts (xy 33.02 171.45) (xy 41.91 171.45))
+    (stroke (width 0) (type default))
+    (uuid 2f208534-c852-4767-955e-45ffa693044b)
+  )
+  (wire (pts (xy 24.13 184.15) (xy 24.13 182.88))
     (stroke (width 0) (type default))
     (uuid 2f2c3a7a-862b-4612-9904-592c91b2a410)
   )
@@ -2970,7 +2978,7 @@
     (stroke (width 0) (type default))
     (uuid 306c2f3a-01f2-4ecd-ba62-53de665f2d34)
   )
-  (wire (pts (xy 20.32 182.88) (xy 20.32 179.07))
+  (wire (pts (xy 20.32 186.69) (xy 20.32 182.88))
     (stroke (width 0) (type default))
     (uuid 31aea23c-d80d-462d-9149-e48189f519cb)
   )
@@ -3005,6 +3013,10 @@
   (wire (pts (xy 102.87 43.18) (xy 102.87 39.37))
     (stroke (width 0) (type default))
     (uuid 36eebeeb-5b3e-422e-9a77-3358bd65f850)
+  )
+  (wire (pts (xy 34.29 168.91) (xy 33.02 168.91))
+    (stroke (width 0) (type default))
+    (uuid 394fb50d-6ff0-424a-9be3-6dea44f9c9f7)
   )
   (wire (pts (xy 226.06 138.43) (xy 228.6 138.43))
     (stroke (width 0) (type default))
@@ -3069,6 +3081,10 @@
   (wire (pts (xy 200.66 143.51) (xy 199.39 143.51))
     (stroke (width 0) (type default))
     (uuid 4616a7c0-31ec-4acb-88ef-e3c1e89c4233)
+  )
+  (wire (pts (xy 34.29 163.83) (xy 34.29 161.29))
+    (stroke (width 0) (type default))
+    (uuid 4697cab4-9197-4485-a5ab-5d0343461a9d)
   )
   (wire (pts (xy 245.11 34.29) (xy 246.38 34.29))
     (stroke (width 0) (type default))
@@ -3286,6 +3302,10 @@
     (stroke (width 0) (type default))
     (uuid 7bbb696e-0828-41a6-b6f9-198b07905726)
   )
+  (wire (pts (xy 34.29 161.29) (xy 33.02 161.29))
+    (stroke (width 0) (type default))
+    (uuid 7be0f6ea-8e4d-4655-b72b-9f2a399513cf)
+  )
   (wire (pts (xy 271.78 180.34) (xy 261.62 180.34))
     (stroke (width 0) (type default))
     (uuid 7d33c723-edec-42ad-98d8-71f6200c8704)
@@ -3302,7 +3322,7 @@
     (stroke (width 0) (type default))
     (uuid 82078dd1-049f-4790-8e7a-5bf5bec22afe)
   )
-  (wire (pts (xy 24.13 182.88) (xy 20.32 182.88))
+  (wire (pts (xy 24.13 186.69) (xy 20.32 186.69))
     (stroke (width 0) (type default))
     (uuid 822767a4-9be5-45e1-8857-b079fc00397d)
   )
@@ -3317,6 +3337,10 @@
   (wire (pts (xy 115.57 110.49) (xy 115.57 111.76))
     (stroke (width 0) (type default))
     (uuid 8532fe71-97aa-48ef-81b0-614770c4912e)
+  )
+  (wire (pts (xy 41.91 171.45) (xy 41.91 172.72))
+    (stroke (width 0) (type default))
+    (uuid 859667bb-aea4-41bf-829c-3cd529eab87c)
   )
   (wire (pts (xy 259.08 93.98) (xy 260.35 93.98))
     (stroke (width 0) (type default))
@@ -3438,7 +3462,7 @@
     (stroke (width 0) (type default))
     (uuid 9c2f2d4a-4f3d-42af-b331-37cf7794e6cd)
   )
-  (wire (pts (xy 39.37 180.34) (xy 40.64 180.34))
+  (wire (pts (xy 39.37 184.15) (xy 40.64 184.15))
     (stroke (width 0) (type default))
     (uuid 9eaf1432-8057-4053-9dc0-4bb3d68c8157)
   )
@@ -3554,6 +3578,10 @@
     (stroke (width 0) (type default))
     (uuid abae4756-5f93-4d78-946f-250d5adfc487)
   )
+  (wire (pts (xy 34.29 167.64) (xy 34.29 168.91))
+    (stroke (width 0) (type default))
+    (uuid ac1c7fdc-3476-4ec6-8494-6ad68dd33501)
+  )
   (wire (pts (xy 139.7 144.78) (xy 139.7 146.05))
     (stroke (width 0) (type default))
     (uuid aca4a9b3-7935-4b6f-9900-7945618282db)
@@ -3642,6 +3670,10 @@
     (stroke (width 0) (type default))
     (uuid c3637988-d80c-4be4-8d20-52baef94bf0f)
   )
+  (wire (pts (xy 40.64 158.75) (xy 41.91 158.75))
+    (stroke (width 0) (type default))
+    (uuid c3731b1c-2caa-4340-aa5d-8bd98e540300)
+  )
   (wire (pts (xy 73.66 127) (xy 74.93 127))
     (stroke (width 0) (type default))
     (uuid c4522fa5-e9bb-4c01-a6cd-fe9c187c9a91)
@@ -3658,7 +3690,7 @@
     (stroke (width 0) (type default))
     (uuid c8833200-e86b-40b4-8672-e60324039c5c)
   )
-  (wire (pts (xy 50.8 182.88) (xy 50.8 186.69))
+  (wire (pts (xy 50.8 186.69) (xy 50.8 190.5))
     (stroke (width 0) (type default))
     (uuid c887457c-7df9-40fb-8d4d-b4b4a52a6d91)
   )
@@ -3690,7 +3722,7 @@
     (stroke (width 0) (type default))
     (uuid cbe5e539-a26e-4756-85c2-572991a49875)
   )
-  (wire (pts (xy 39.37 185.42) (xy 40.64 185.42))
+  (wire (pts (xy 39.37 189.23) (xy 40.64 189.23))
     (stroke (width 0) (type default))
     (uuid cc1926a0-dc2b-4800-b9e0-083e6a3bf1b0)
   )
@@ -3830,6 +3862,10 @@
     (stroke (width 0) (type default))
     (uuid e1c8d146-fac0-49ff-8973-c9676f792832)
   )
+  (wire (pts (xy 41.91 158.75) (xy 41.91 157.48))
+    (stroke (width 0) (type default))
+    (uuid e2a84485-9530-44aa-b7ac-5ac8b2b85004)
+  )
   (wire (pts (xy 107.95 104.14) (xy 107.95 105.41))
     (stroke (width 0) (type default))
     (uuid e2ff52e7-1784-4d5f-b162-3cf3fa16b5c0)
@@ -3842,7 +3878,7 @@
     (stroke (width 0) (type default))
     (uuid e5e8e6ac-24c8-4929-b6b9-f111a56662a5)
   )
-  (wire (pts (xy 31.75 160.02) (xy 33.02 160.02))
+  (wire (pts (xy 33.02 158.75) (xy 35.56 158.75))
     (stroke (width 0) (type default))
     (uuid e6f51da4-68ff-4b34-97f4-0d1388126e95)
   )
@@ -3858,7 +3894,7 @@
     (stroke (width 0) (type default))
     (uuid e86c4cc3-4e7f-46e4-8436-300aefcfe7d8)
   )
-  (wire (pts (xy 39.37 182.88) (xy 50.8 182.88))
+  (wire (pts (xy 39.37 186.69) (xy 50.8 186.69))
     (stroke (width 0) (type default))
     (uuid e8969eea-47fe-4163-b34f-9d08843d98d2)
   )
@@ -3946,7 +3982,7 @@
     (stroke (width 0) (type default))
     (uuid f51376b8-b8ea-4a71-8f32-c13bb989ae5e)
   )
-  (wire (pts (xy 31.75 162.56) (xy 33.02 162.56))
+  (wire (pts (xy 34.29 163.83) (xy 35.56 163.83))
     (stroke (width 0) (type default))
     (uuid f6ef4fc7-2cb8-4235-87bc-44115ce624d4)
   )
@@ -4114,6 +4150,10 @@
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 8ff20b7d-5da6-4682-b964-ae85d6da8080)
   )
+  (text "Budget STLINK" (at 26.67 153.67 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid a55f0698-4a21-47e1-b944-c6f77ef91a31)
+  )
   (text "D1, D4 is reverse\npolarity protection\nin case of skill issue"
     (at 60.96 54.61 0)
     (effects (font (size 1 1)) (justify left bottom))
@@ -4208,13 +4248,6 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "SWCLK" (shape input) (at 33.02 160.02 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 0e1e8f7f-c606-4770-9d50-f06a1546f034)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 42.2342 160.02 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
   (global_label "SCL" (shape input) (at 194.31 87.63 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1a199bab-49d1-4e97-86bf-87ae67fe216b)
@@ -4250,10 +4283,17 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "SWCLK" (shape input) (at 40.64 180.34 0) (fields_autoplaced)
+  (global_label "SWCLK" (shape input) (at 40.64 184.15 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2978701d-690f-4622-b035-aa2fb3c12473)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 49.8542 180.34 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 49.8542 184.15 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "SWDIO" (shape bidirectional) (at 35.56 167.64 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 2fe1e9e7-d490-445d-8cae-539f68c5fdcb)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 45.5227 167.64 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4271,10 +4311,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "SWDIO" (shape input) (at 40.64 185.42 0) (fields_autoplaced)
+  (global_label "SWDIO" (shape input) (at 40.64 189.23 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 4488b6d1-fce5-403e-8fbe-e208082daa50)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 49.4914 185.42 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 49.4914 189.23 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -4369,6 +4409,13 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+  (global_label "SWCLK" (shape input) (at 35.56 163.83 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 83418913-4f66-4a7c-9338-15a8d8a70ba0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 44.7742 163.83 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "SDA" (shape bidirectional) (at 246.38 29.21 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 86490e5b-f646-4451-b9b3-a7b2ea8466f1)
@@ -4381,13 +4428,6 @@
     (uuid 8e2325b1-dc0f-4c8a-ba6e-85fd5b24433c)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 135.89 189.4333 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "SWDIO" (shape bidirectional) (at 33.02 162.56 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 8ec2638f-bcbf-4fbe-9aee-44f75b9eb744)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 42.9827 162.56 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "ADC" (shape input) (at 246.38 31.75 0) (fields_autoplaced)
@@ -4446,10 +4486,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "COM" (shape bidirectional) (at 22.86 185.42 180) (fields_autoplaced)
+  (global_label "COM" (shape bidirectional) (at 22.86 189.23 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid bb882334-fee1-459d-8636-065e8eff7d85)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 14.7116 185.42 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 14.7116 189.23 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -4643,7 +4683,7 @@
   (symbol (lib_id "power:VDD") (at 90.17 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 01063483-14ef-447e-9e1f-d1733c77166b)
-    (property "Reference" "#PWR028" (at 90.17 182.88 0)
+    (property "Reference" "#PWR030" (at 90.17 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 90.17 175.26 0)
@@ -4659,7 +4699,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR030") (unit 1)
         )
       )
     )
@@ -4668,7 +4708,7 @@
   (symbol (lib_id "power:VDC") (at 181.61 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 02641383-e55e-4646-87a4-87321bfcbe55)
-    (property "Reference" "#PWR054" (at 181.61 177.8 0)
+    (property "Reference" "#PWR056" (at 181.61 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDC" (at 181.61 171.45 0)
@@ -4684,7 +4724,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )
@@ -4757,7 +4797,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_ARGB") (at 83.82 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09dae63e-b170-4e8f-8739-b0ff285005f9)
-    (property "Reference" "D6" (at 83.82 170.18 0)
+    (property "Reference" "D7" (at 83.82 170.18 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RGB" (at 83.82 189.23 0)
@@ -4782,7 +4822,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D6") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -4791,7 +4831,7 @@
   (symbol (lib_id "power:VDD") (at 139.7 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a476977-9ddf-46c7-b435-491348d4fd72)
-    (property "Reference" "#PWR046" (at 139.7 142.24 0)
+    (property "Reference" "#PWR048" (at 139.7 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 139.7 134.62 0)
@@ -4807,7 +4847,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
       )
     )
@@ -4841,7 +4881,7 @@
   (symbol (lib_id "power:VDD") (at 246.38 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 10eaf5be-d171-4766-857a-beeaf5349cf8)
-    (property "Reference" "#PWR070" (at 246.38 26.67 0)
+    (property "Reference" "#PWR072" (at 246.38 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 246.38 17.78 0)
@@ -4857,7 +4897,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR070") (unit 1)
+          (reference "#PWR072") (unit 1)
         )
       )
     )
@@ -4866,7 +4906,7 @@
   (symbol (lib_id "power:GND") (at 59.69 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 11076476-c89f-4e6a-9922-3f31d0eaf6dd)
-    (property "Reference" "#PWR015" (at 59.69 41.91 0)
+    (property "Reference" "#PWR017" (at 59.69 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 59.69 39.37 0)
@@ -4882,7 +4922,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -4923,7 +4963,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 139.7 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 12cac031-3f6c-4c59-8ab0-0b6d86316918)
-    (property "Reference" "D11" (at 137.16 143.51 0)
+    (property "Reference" "D12" (at 137.16 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 142.24 144.78 0)
@@ -4946,7 +4986,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D11") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -5012,7 +5052,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:D_Schottky_Small") (at 57.15 57.15 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1738ce34-b8a4-46df-b66e-bd8c40318600)
-    (property "Reference" "D1" (at 54.61 54.61 0)
+    (property "Reference" "D2" (at 54.61 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B5817WS" (at 59.69 52.07 0)
@@ -5035,7 +5075,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D1") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -5044,7 +5084,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:Conn_01x05_Socket") (at 69.85 31.75 180) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 1b60cbfb-0050-4156-a8e0-88ea65fc1514)
-    (property "Reference" "J4" (at 69.85 22.86 0)
+    (property "Reference" "J5" (at 69.85 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "POGO" (at 69.85 39.37 0)
@@ -5070,7 +5110,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "J4") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -5230,7 +5270,7 @@
   (symbol (lib_id "power:GND") (at 238.76 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20d37119-1f01-4303-a87a-37b45fc14a4f)
-    (property "Reference" "#PWR069" (at 238.76 85.09 0)
+    (property "Reference" "#PWR071" (at 238.76 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 238.76 82.55 0)
@@ -5246,7 +5286,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR069") (unit 1)
+          (reference "#PWR071") (unit 1)
         )
       )
     )
@@ -5287,7 +5327,7 @@
   (symbol (lib_id "power:+3V3") (at 167.64 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 240bb592-a775-44f4-ad34-9e13c08adca8)
-    (property "Reference" "#PWR053" (at 167.64 69.85 0)
+    (property "Reference" "#PWR055" (at 167.64 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 167.64 62.23 0)
@@ -5303,7 +5343,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -5312,7 +5352,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 50.8 60.96 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 254803fc-71dc-4c3c-9030-87efb0dfb759)
-    (property "Reference" "J3" (at 50.8 58.42 0)
+    (property "Reference" "J4" (at 50.8 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PADS" (at 52.07 66.04 0)
@@ -5335,7 +5375,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "J3") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -5344,7 +5384,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 62.23 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2942adf7-2c74-4c6d-8f66-4b451f840588)
-    (property "Reference" "D2" (at 59.69 95.25 0)
+    (property "Reference" "D3" (at 59.69 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 64.77 96.52 0)
@@ -5367,7 +5407,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D2") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -5376,7 +5416,7 @@
   (symbol (lib_id "power:VDD") (at 204.47 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2ca79c8d-f32f-43d8-ad1b-a1ce85c27f9d)
-    (property "Reference" "#PWR062" (at 204.47 83.82 0)
+    (property "Reference" "#PWR064" (at 204.47 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 204.47 76.2 0)
@@ -5392,7 +5432,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR062") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
@@ -5401,7 +5441,7 @@
   (symbol (lib_id "power:GND") (at 204.47 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d7687cf-2d76-4679-a67c-38d3063e1d02)
-    (property "Reference" "#PWR063" (at 204.47 93.98 0)
+    (property "Reference" "#PWR065" (at 204.47 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 204.47 91.44 0)
@@ -5417,7 +5457,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR063") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -5458,7 +5498,7 @@
   (symbol (lib_id "power:GND") (at 82.55 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e63871d-033d-4706-8d99-d1eb14134ef7)
-    (property "Reference" "#PWR024" (at 82.55 110.49 0)
+    (property "Reference" "#PWR026" (at 82.55 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 82.55 107.95 0)
@@ -5474,7 +5514,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -5548,7 +5588,7 @@
   (symbol (lib_id "power:VDD") (at 147.32 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32f61efc-28de-42df-8660-3b84ed9e0b10)
-    (property "Reference" "#PWR048" (at 147.32 142.24 0)
+    (property "Reference" "#PWR050" (at 147.32 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 147.32 134.62 0)
@@ -5564,7 +5604,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
       )
     )
@@ -5718,7 +5758,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Socket") (at 187.96 82.55 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 3bd79762-fcca-48c3-b4b7-09e489bdd9da)
-    (property "Reference" "J6" (at 191.77 76.2 0)
+    (property "Reference" "J7" (at 191.77 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "JST-GH-4P" (at 195.58 90.17 0)
@@ -5743,7 +5783,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "J6") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -5847,7 +5887,7 @@
   (symbol (lib_id "power:GND") (at 57.15 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3cfde41d-9d20-459c-ac17-8b81154629e1)
-    (property "Reference" "#PWR014" (at 57.15 71.12 0)
+    (property "Reference" "#PWR016" (at 57.15 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 57.15 68.58 0)
@@ -5863,7 +5903,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -5872,7 +5912,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 109.22 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 40579639-c971-420a-8caf-2d4da4c71de5)
-    (property "Reference" "D7" (at 106.68 143.51 0)
+    (property "Reference" "D8" (at 106.68 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 111.76 144.78 0)
@@ -5895,7 +5935,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D7") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -5999,19 +6039,19 @@
     )
   )
 
-  (symbol (lib_id "power:VDC") (at 20.32 179.07 0) (unit 1)
+  (symbol (lib_id "power:VDC") (at 20.32 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 459d9214-f751-4034-8b75-0630eba912d4)
-    (property "Reference" "#PWR01" (at 20.32 181.61 0)
+    (property "Reference" "#PWR01" (at 20.32 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VDC" (at 20.32 173.99 0)
+    (property "Value" "VDC" (at 20.32 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 20.32 179.07 0)
+    (property "Footprint" "" (at 20.32 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 20.32 179.07 0)
+    (property "Datasheet" "" (at 20.32 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8c794172-7957-469e-95ab-ff5ec4554d7a))
@@ -6027,7 +6067,7 @@
   (symbol (lib_id "power:VDD") (at 120.65 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45ba76ae-cfc7-44af-9525-7365708cf3be)
-    (property "Reference" "#PWR038" (at 120.65 184.15 0)
+    (property "Reference" "#PWR040" (at 120.65 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 120.65 176.53 0)
@@ -6043,7 +6083,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -6084,7 +6124,7 @@
   (symbol (lib_id "power:+BATT") (at 119.38 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4813cad4-cc4f-4051-a79e-24966009b7ee)
-    (property "Reference" "#PWR037" (at 119.38 71.12 0)
+    (property "Reference" "#PWR039" (at 119.38 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 119.38 62.23 0)
@@ -6100,7 +6140,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -6166,7 +6206,7 @@
   (symbol (lib_id "power:GND") (at 162.56 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a7e6120-4056-4680-95dc-b844f4c0b5ed)
-    (property "Reference" "#PWR052" (at 162.56 55.88 0)
+    (property "Reference" "#PWR054" (at 162.56 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 162.56 53.34 0)
@@ -6182,7 +6222,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -6248,7 +6288,7 @@
   (symbol (lib_id "power:+BATT") (at 162.56 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52952a92-4831-4a69-b3db-0054271eedfb)
-    (property "Reference" "#PWR051" (at 162.56 38.1 0)
+    (property "Reference" "#PWR053" (at 162.56 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 162.56 29.21 0)
@@ -6264,7 +6304,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR051") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -6273,7 +6313,7 @@
   (symbol (lib_id "power:VCC") (at 102.87 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5295d0ed-dc27-4995-ad62-a59d2d04953b)
-    (property "Reference" "#PWR029" (at 102.87 27.94 0)
+    (property "Reference" "#PWR031" (at 102.87 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 102.87 19.05 0)
@@ -6289,7 +6329,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR031") (unit 1)
         )
       )
     )
@@ -6298,7 +6338,7 @@
   (symbol (lib_id "power:VCC") (at 72.39 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 529a27ac-e5bd-4d2b-9c4a-54cc02811aa8)
-    (property "Reference" "#PWR019" (at 72.39 93.98 0)
+    (property "Reference" "#PWR021" (at 72.39 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 72.39 85.09 0)
@@ -6314,7 +6354,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -6323,7 +6363,7 @@
   (symbol (lib_id "power:+BATT") (at 54.61 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52ad63db-bf63-40e2-ba7b-92a3da7d8925)
-    (property "Reference" "#PWR012" (at 54.61 132.08 0)
+    (property "Reference" "#PWR014" (at 54.61 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 54.61 123.19 0)
@@ -6339,7 +6379,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -6348,7 +6388,7 @@
   (symbol (lib_id "power:GND") (at 72.39 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 53652b47-736f-4513-900d-ea926d318b74)
-    (property "Reference" "#PWR020" (at 72.39 110.49 0)
+    (property "Reference" "#PWR022" (at 72.39 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 72.39 107.95 0)
@@ -6364,7 +6404,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -6373,7 +6413,7 @@
   (symbol (lib_id "power:+3V3") (at 201.93 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 53e396d3-035c-4cf9-9fb0-ab4bd3c7eeb8)
-    (property "Reference" "#PWR061" (at 201.93 179.07 0)
+    (property "Reference" "#PWR063" (at 201.93 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 201.93 171.45 0)
@@ -6389,7 +6429,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR061") (unit 1)
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -6462,7 +6502,7 @@
   (symbol (lib_id "power:GND") (at 256.54 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5685c636-6f88-4e54-89d3-05969fbbdb20)
-    (property "Reference" "#PWR074" (at 256.54 85.09 0)
+    (property "Reference" "#PWR076" (at 256.54 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 256.54 82.55 0)
@@ -6478,7 +6518,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR074") (unit 1)
+          (reference "#PWR076") (unit 1)
         )
       )
     )
@@ -6551,7 +6591,7 @@
   (symbol (lib_id "power:+5V") (at 45.72 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5b06eb65-8318-45b8-a23c-6f60486c4a47)
-    (property "Reference" "#PWR010" (at 45.72 30.48 0)
+    (property "Reference" "#PWR012" (at 45.72 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 45.72 21.59 0)
@@ -6567,7 +6607,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -6735,7 +6775,7 @@
   (symbol (lib_id "power:GND") (at 257.81 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6135ce6e-6c5f-4ec6-8973-f6e4f656648c)
-    (property "Reference" "#PWR075" (at 257.81 182.88 0)
+    (property "Reference" "#PWR077" (at 257.81 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 257.81 180.34 0)
@@ -6751,7 +6791,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR075") (unit 1)
+          (reference "#PWR077") (unit 1)
         )
       )
     )
@@ -6760,7 +6800,7 @@
   (symbol (lib_id "power:VDD") (at 107.95 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63ba6a1c-9a3c-45a7-b7c7-d815f223d1bb)
-    (property "Reference" "#PWR031" (at 107.95 107.95 0)
+    (property "Reference" "#PWR033" (at 107.95 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 107.95 100.33 0)
@@ -6776,25 +6816,50 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR033") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 24.13 179.07 0) (unit 1)
+  (symbol (lib_id "power:VDD") (at 41.91 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 64224e83-dcdb-42ff-9131-c665d29051f4)
-    (property "Reference" "#PWR05" (at 24.13 182.88 0)
+    (uuid 63f6eb7b-ca4c-4961-82f4-32ad9b0087b1)
+    (property "Reference" "#PWR010" (at 41.91 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (at 24.13 173.99 0)
+    (property "Value" "VDD" (at 41.91 152.4 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 24.13 179.07 0)
+    (property "Footprint" "" (at 41.91 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 24.13 179.07 0)
+    (property "Datasheet" "" (at 41.91 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8eeb0864-1a85-4ada-8682-0c0be9be43bf))
+    (instances
+      (project "Patchwork Playground"
+        (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
+          (reference "#PWR010") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+5V") (at 24.13 182.88 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 64224e83-dcdb-42ff-9131-c665d29051f4)
+    (property "Reference" "#PWR05" (at 24.13 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+5V" (at 24.13 177.8 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 24.13 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 24.13 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b37d5b80-8f6c-4c83-bc58-bc85b8751160))
@@ -6810,7 +6875,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 72.39 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66c58f16-8979-4576-a0e1-bb55f92b4f22)
-    (property "Reference" "D3" (at 69.85 95.25 0)
+    (property "Reference" "D4" (at 69.85 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 74.93 96.52 0)
@@ -6833,7 +6898,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D3") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -6929,7 +6994,7 @@
   (symbol (lib_id "power:VDD") (at 199.39 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e65e0fa-c254-4024-a608-d0f7a4945666)
-    (property "Reference" "#PWR060" (at 199.39 137.16 0)
+    (property "Reference" "#PWR062" (at 199.39 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 199.39 128.27 0)
@@ -6945,7 +7010,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR060") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -7039,10 +7104,42 @@
     )
   )
 
+  (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 27.94 168.91 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no)
+    (uuid 77d4f5c6-eb9d-42af-8c74-85f632a82b10)
+    (property "Reference" "J2" (at 27.94 166.37 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "PADS" (at 29.21 173.99 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Patchwork Playground Footprints:PinHeader_1x02_P2.54mm_Vertical" (at 27.94 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 27.94 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MPN" "" (at 27.94 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "EXTENDED?" "" (at 27.94 168.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b3d15b81-a48a-470d-9d2c-a0fdf3004569))
+    (pin "2" (uuid 3015b311-a659-46b1-98a3-684950d35af3))
+    (instances
+      (project "Patchwork Playground"
+        (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
+          (reference "J2") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:VDD") (at 247.65 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 792a05d0-0b58-44ee-8996-1c13be2804db)
-    (property "Reference" "#PWR072" (at 247.65 74.93 0)
+    (property "Reference" "#PWR074" (at 247.65 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 247.65 66.04 0)
@@ -7058,7 +7155,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR072") (unit 1)
+          (reference "#PWR074") (unit 1)
         )
       )
     )
@@ -7067,7 +7164,7 @@
   (symbol (lib_id "power:+5V") (at 57.15 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ae69868-e047-4e50-98af-3ae2f551c657)
-    (property "Reference" "#PWR013" (at 57.15 57.15 0)
+    (property "Reference" "#PWR015" (at 57.15 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 57.15 48.26 0)
@@ -7083,7 +7180,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -7092,7 +7189,7 @@
   (symbol (lib_id "power:VCC") (at 191.77 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7cff1aa5-9ef7-40f0-84ae-550418f4fa9e)
-    (property "Reference" "#PWR057" (at 191.77 179.07 0)
+    (property "Reference" "#PWR059" (at 191.77 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 191.77 171.45 0)
@@ -7108,7 +7205,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR057") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
@@ -7142,7 +7239,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:D_Schottky_Small") (at 81.28 52.07 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 828e261e-b79d-4991-8fbe-4807dc560b8f)
-    (property "Reference" "D4" (at 78.74 49.53 0)
+    (property "Reference" "D5" (at 78.74 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "B5817WS" (at 83.82 49.53 0)
@@ -7165,7 +7262,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D4") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -7174,7 +7271,7 @@
   (symbol (lib_id "power:VDD") (at 196.85 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82bd3dd2-264f-4694-965a-539702a354cb)
-    (property "Reference" "#PWR059" (at 196.85 179.07 0)
+    (property "Reference" "#PWR061" (at 196.85 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 196.85 171.45 0)
@@ -7190,7 +7287,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR059") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
@@ -7231,7 +7328,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 124.46 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 85914429-2628-49d4-9ebe-77403975a26f)
-    (property "Reference" "D9" (at 121.92 143.51 0)
+    (property "Reference" "D10" (at 121.92 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 127 144.78 0)
@@ -7254,7 +7351,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D9") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -7294,7 +7391,7 @@
   (symbol (lib_id "power:VDD") (at 231.14 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87c1cc73-5bd4-4aea-b11f-78b394faa41a)
-    (property "Reference" "#PWR068" (at 231.14 77.47 0)
+    (property "Reference" "#PWR070" (at 231.14 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 231.14 69.85 0)
@@ -7310,7 +7407,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR068") (unit 1)
+          (reference "#PWR070") (unit 1)
         )
       )
     )
@@ -7319,7 +7416,7 @@
   (symbol (lib_id "power:VDD") (at 109.22 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 891a8b7c-572d-4fbe-8799-edc3835b75ab)
-    (property "Reference" "#PWR032" (at 109.22 142.24 0)
+    (property "Reference" "#PWR034" (at 109.22 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 109.22 134.62 0)
@@ -7335,7 +7432,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR034") (unit 1)
         )
       )
     )
@@ -7344,7 +7441,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 82.55 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 897ac77d-510e-4d4a-a65f-aa04274fbdbf)
-    (property "Reference" "D5" (at 80.01 95.25 0)
+    (property "Reference" "D6" (at 80.01 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 85.09 96.52 0)
@@ -7367,7 +7464,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D5") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -7376,7 +7473,7 @@
   (symbol (lib_id "power:GND") (at 223.52 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 89a84c9e-cbfe-4246-a3d7-10fcbedced91)
-    (property "Reference" "#PWR066" (at 223.52 80.01 0)
+    (property "Reference" "#PWR068" (at 223.52 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 223.52 77.47 0)
@@ -7392,7 +7489,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR066") (unit 1)
+          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -7542,7 +7639,7 @@
   (symbol (lib_id "power:GND") (at 207.01 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d1b79c0-02a2-4ecc-87e8-08ec8d2e069c)
-    (property "Reference" "#PWR064" (at 207.01 180.34 0)
+    (property "Reference" "#PWR066" (at 207.01 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 177.8 0)
@@ -7558,7 +7655,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR064") (unit 1)
+          (reference "#PWR066") (unit 1)
         )
       )
     )
@@ -7635,7 +7732,7 @@
   (symbol (lib_id "power:GND") (at 102.87 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9477ef93-d53d-4f14-bdb8-514b86ce66d2)
-    (property "Reference" "#PWR030" (at 102.87 57.15 0)
+    (property "Reference" "#PWR032" (at 102.87 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 102.87 54.61 0)
@@ -7651,7 +7748,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -7660,7 +7757,7 @@
   (symbol (lib_id "power:GND") (at 63.5 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 95205bc0-a827-4d07-acd5-b2ef86e4151f)
-    (property "Reference" "#PWR018" (at 63.5 167.64 0)
+    (property "Reference" "#PWR020" (at 63.5 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 63.5 165.1 0)
@@ -7676,7 +7773,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -7685,7 +7782,7 @@
   (symbol (lib_id "power:VDD") (at 154.94 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 963400b9-622c-4c0c-a2fe-41230f6962a4)
-    (property "Reference" "#PWR050" (at 154.94 142.24 0)
+    (property "Reference" "#PWR052" (at 154.94 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 154.94 134.62 0)
@@ -7701,7 +7798,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -7710,7 +7807,7 @@
   (symbol (lib_id "power:VCC") (at 115.57 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 964a1b16-006e-4325-b492-39aa8a11b106)
-    (property "Reference" "#PWR035" (at 115.57 184.15 0)
+    (property "Reference" "#PWR037" (at 115.57 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 115.57 176.53 0)
@@ -7726,7 +7823,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -7735,7 +7832,7 @@
   (symbol (lib_id "power:VDD") (at 123.19 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 97b8c19c-db93-4b35-8ffc-2849b3031cc6)
-    (property "Reference" "#PWR040" (at 123.19 107.95 0)
+    (property "Reference" "#PWR042" (at 123.19 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 123.19 100.33 0)
@@ -7751,7 +7848,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR040") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -7791,7 +7888,7 @@
   (symbol (lib_id "power:+BATT") (at 109.22 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ae33ab2-ffb2-48e8-9c1a-b49a3e0d98e1)
-    (property "Reference" "#PWR033" (at 109.22 184.15 0)
+    (property "Reference" "#PWR035" (at 109.22 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 109.22 176.53 0)
@@ -7807,7 +7904,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -7838,10 +7935,35 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 41.91 172.72 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 9de959d1-1b42-4263-9ed1-ce957d64bead)
+    (property "Reference" "#PWR011" (at 41.91 179.07 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 41.91 176.53 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 41.91 172.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 41.91 172.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a3a6c217-50f8-4ee9-80ea-1b1e10f63829))
+    (instances
+      (project "Patchwork Playground"
+        (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
+          (reference "#PWR011") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:VDD") (at 116.84 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ed59c5b-5e39-4814-9619-564ecc17cbce)
-    (property "Reference" "#PWR036" (at 116.84 142.24 0)
+    (property "Reference" "#PWR038" (at 116.84 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 116.84 134.62 0)
@@ -7857,7 +7979,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -7866,7 +7988,7 @@
   (symbol (lib_id "power:VDD") (at 124.46 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a257d544-992e-402c-bf76-4ecb2cf5061b)
-    (property "Reference" "#PWR041" (at 124.46 142.24 0)
+    (property "Reference" "#PWR043" (at 124.46 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 124.46 134.62 0)
@@ -7882,7 +8004,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -7923,7 +8045,7 @@
   (symbol (lib_id "power:VDD") (at 146.05 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4c33d08-bd58-4804-aadc-5ed2fe9079be)
-    (property "Reference" "#PWR047" (at 146.05 107.95 0)
+    (property "Reference" "#PWR049" (at 146.05 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 146.05 100.33 0)
@@ -7939,7 +8061,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
     )
@@ -7970,26 +8092,26 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 50.8 186.69 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 50.8 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5435bc9-d34c-4e11-8900-8137ff859843)
-    (property "Reference" "#PWR011" (at 50.8 193.04 0)
+    (property "Reference" "#PWR013" (at 50.8 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 50.8 190.5 0)
+    (property "Value" "GND" (at 50.8 194.31 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 186.69 0)
+    (property "Footprint" "" (at 50.8 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 50.8 186.69 0)
+    (property "Datasheet" "" (at 50.8 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ce2e841e-a825-4eab-8eba-9276b119afcb))
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -8042,7 +8164,7 @@
   (symbol (lib_id "power:VDD") (at 82.55 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a7419328-6c4f-41a5-bf86-d3597f06bd56)
-    (property "Reference" "#PWR023" (at 82.55 93.98 0)
+    (property "Reference" "#PWR025" (at 82.55 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 82.55 85.09 0)
@@ -8058,7 +8180,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -8098,7 +8220,7 @@
   (symbol (lib_id "power:+5V") (at 186.69 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a9143b53-629d-4ba2-9a55-392d2d803953)
-    (property "Reference" "#PWR055" (at 186.69 179.07 0)
+    (property "Reference" "#PWR057" (at 186.69 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 186.69 171.45 0)
@@ -8114,7 +8236,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -8155,7 +8277,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 132.08 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ae734c06-09f6-4d79-81e3-72dc5f81db55)
-    (property "Reference" "D10" (at 129.54 143.51 0)
+    (property "Reference" "D11" (at 129.54 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 134.62 144.78 0)
@@ -8178,7 +8300,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D10") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -8244,7 +8366,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 116.84 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2ea9e08-ebc5-412c-bfc8-0fd87cd19d4d)
-    (property "Reference" "D8" (at 114.3 143.51 0)
+    (property "Reference" "D9" (at 114.3 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 119.38 144.78 0)
@@ -8267,7 +8389,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D8") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -8307,7 +8429,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 154.94 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b855744f-a064-4ad3-a021-264f636bde89)
-    (property "Reference" "D13" (at 152.4 144.78 0)
+    (property "Reference" "D14" (at 152.4 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 157.48 144.78 0)
@@ -8330,31 +8452,31 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D13") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 26.67 160.02 0) (unit 1)
+  (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 27.94 158.75 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid bc9d5896-f2b3-4ca1-ae77-a8f65ec6c99b)
-    (property "Reference" "J1" (at 26.67 157.48 0)
+    (property "Reference" "J1" (at 27.94 156.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PADS" (at 27.94 165.1 0)
+    (property "Value" "PADS" (at 29.21 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Patchwork Playground Footprints:PinHeader_1x02_P2.54mm_Vertical" (at 26.67 160.02 0)
+    (property "Footprint" "Patchwork Playground Footprints:PinHeader_1x02_P2.54mm_Vertical" (at 27.94 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 26.67 160.02 0)
+    (property "Datasheet" "~" (at 27.94 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "" (at 26.67 160.02 0)
+    (property "MPN" "" (at 27.94 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "EXTENDED?" "" (at 26.67 160.02 0)
+    (property "EXTENDED?" "" (at 27.94 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 325bdfb6-71e2-456c-b800-7b7051870af8))
@@ -8371,7 +8493,7 @@
   (symbol (lib_id "power:+5V") (at 88.9 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcdfa910-509c-4281-b572-7a0c48164fc2)
-    (property "Reference" "#PWR027" (at 88.9 29.21 0)
+    (property "Reference" "#PWR029" (at 88.9 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 88.9 20.32 0)
@@ -8387,7 +8509,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -8459,7 +8581,7 @@
   (symbol (lib_id "power:VDD") (at 138.43 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c16951aa-f446-4bd0-ba13-47207d94b8aa)
-    (property "Reference" "#PWR045" (at 138.43 107.95 0)
+    (property "Reference" "#PWR047" (at 138.43 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 138.43 100.33 0)
@@ -8475,7 +8597,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
     )
@@ -8516,7 +8638,7 @@
   (symbol (lib_id "power:VDD") (at 115.57 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2252532-49bd-4e37-a260-f1c0ddee065a)
-    (property "Reference" "#PWR034" (at 115.57 107.95 0)
+    (property "Reference" "#PWR036" (at 115.57 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 115.57 100.33 0)
@@ -8532,7 +8654,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -8604,7 +8726,7 @@
   (symbol (lib_id "power:GND") (at 62.23 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c521338e-b002-428c-9e86-6d046871b938)
-    (property "Reference" "#PWR017" (at 62.23 110.49 0)
+    (property "Reference" "#PWR019" (at 62.23 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 62.23 107.95 0)
@@ -8620,7 +8742,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -8661,7 +8783,7 @@
   (symbol (lib_id "power:GND") (at 85.09 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c7e1cd80-df6f-4dd8-833c-cb0247433dc9)
-    (property "Reference" "#PWR025" (at 85.09 139.7 0)
+    (property "Reference" "#PWR028" (at 85.09 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 85.09 137.16 0)
@@ -8677,73 +8799,73 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Patchwork Playground Symbols:SMF05CT1G") (at 31.75 182.88 180) (unit 1)
+  (symbol (lib_id "Patchwork Playground Symbols:SMF05CT1G") (at 31.75 186.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c8f7bf86-9a00-46e8-8590-da35a9e381aa)
-    (property "Reference" "U1" (at 35.56 176.53 0)
+    (property "Reference" "U1" (at 35.56 180.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SMF05CT1G" (at 31.75 189.23 0)
+    (property "Value" "SMF05CT1G" (at 31.75 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Patchwork Playground Footprints:SOT65P210X110-6N" (at 31.75 182.88 0)
+    (property "Footprint" "Patchwork Playground Footprints:SOT65P210X110-6N" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Datasheet" "" (at 31.75 182.88 0)
+    (property "Datasheet" "" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MF" "onsemi" (at 31.75 182.88 0)
+    (property "MF" "onsemi" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "DESCRIPTION" "SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88" (at 31.75 182.88 0)
+    (property "DESCRIPTION" "SMF05C Series 7.2 V 100 W 5-Line Transient Voltage Suppressor Array - SC-88" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "PACKAGE" "SOT-363 ON Semiconductor" (at 31.75 182.88 0)
+    (property "PACKAGE" "SOT-363 ON Semiconductor" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "PRICE" "None" (at 31.75 182.88 0)
+    (property "PRICE" "None" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Package" "SC-88-6 ON Semiconductor" (at 31.75 182.88 0)
+    (property "Package" "SC-88-6 ON Semiconductor" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Check_prices" "https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda" (at 31.75 182.88 0)
+    (property "Check_prices" "https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=eda" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "STANDARD" "IPC7351B" (at 31.75 182.88 0)
+    (property "STANDARD" "IPC7351B" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "SnapEDA_Link" "https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap" (at 31.75 182.88 0)
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/SMF05CT1G/Onsemi/view-part/?ref=snap" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "MP" "SMF05CT1G" (at 31.75 182.88 0)
+    (property "MP" "SMF05CT1G" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7109045&manufacturer=onsemi&part_name=SMF05CT1G&search_term=None" (at 31.75 182.88 0)
+    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=7109045&manufacturer=onsemi&part_name=SMF05CT1G&search_term=None" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Description" "\n12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363\n" (at 31.75 182.88 0)
+    (property "Description" "\n12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363\n" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Availability" "In Stock" (at 31.75 182.88 0)
+    (property "Availability" "In Stock" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "Price" "None" (at 31.75 182.88 0)
+    (property "Price" "None" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "MANUFACTURER" "ON Semiconductor" (at 31.75 182.88 0)
+    (property "MANUFACTURER" "ON Semiconductor" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "MPN" "C15879" (at 31.75 182.88 0)
+    (property "MPN" "C15879" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "EXTENDED?" "" (at 31.75 182.88 0)
+    (property "EXTENDED?" "" (at 31.75 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dfc2de36-141d-4669-8db4-fdb382631acc))
@@ -8828,7 +8950,7 @@
   (symbol (lib_id "power:VDD") (at 132.08 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid caae4f48-2d26-4106-be77-2a8ba9e6d8ab)
-    (property "Reference" "#PWR044" (at 132.08 142.24 0)
+    (property "Reference" "#PWR046" (at 132.08 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 132.08 134.62 0)
@@ -8844,7 +8966,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR044") (unit 1)
+          (reference "#PWR046") (unit 1)
         )
       )
     )
@@ -8853,7 +8975,7 @@
   (symbol (lib_id "power:GND") (at 121.92 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc90a7f3-9b19-4bc0-b31e-0cc314d2698a)
-    (property "Reference" "#PWR039" (at 121.92 31.75 0)
+    (property "Reference" "#PWR041" (at 121.92 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 121.92 29.21 0)
@@ -8869,7 +8991,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR039") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -8974,7 +9096,7 @@
   (symbol (lib_id "power:VDD") (at 224.79 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cdf90f0d-bee4-4a34-9477-30598eea5fbe)
-    (property "Reference" "#PWR067" (at 224.79 99.06 0)
+    (property "Reference" "#PWR069" (at 224.79 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 224.79 91.44 0)
@@ -8990,7 +9112,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR067") (unit 1)
+          (reference "#PWR069") (unit 1)
         )
       )
     )
@@ -9063,7 +9185,7 @@
   (symbol (lib_id "power:VDD") (at 130.81 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d4c274dd-7e1d-48b0-84e8-9ede3dfd9725)
-    (property "Reference" "#PWR043" (at 130.81 107.95 0)
+    (property "Reference" "#PWR045" (at 130.81 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 130.81 100.33 0)
@@ -9079,7 +9201,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR045") (unit 1)
         )
       )
     )
@@ -9088,7 +9210,7 @@
   (symbol (lib_id "power:GND") (at 209.55 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5057e67-137b-47f4-8574-2c57e61af4b8)
-    (property "Reference" "#PWR065" (at 209.55 110.49 0)
+    (property "Reference" "#PWR067" (at 209.55 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 209.55 107.95 0)
@@ -9104,7 +9226,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR065") (unit 1)
+          (reference "#PWR067") (unit 1)
         )
       )
     )
@@ -9113,7 +9235,7 @@
   (symbol (lib_id "power:VDC") (at 81.28 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d68a4d8e-57cf-4142-8b78-bcef9f405526)
-    (property "Reference" "#PWR021" (at 81.28 52.07 0)
+    (property "Reference" "#PWR023" (at 81.28 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDC" (at 81.28 45.72 0)
@@ -9129,7 +9251,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -9171,7 +9293,7 @@
   (symbol (lib_id "power:GND") (at 247.65 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df8aee03-e1d9-48e9-9539-2bf0e88c4e98)
-    (property "Reference" "#PWR073" (at 247.65 115.57 0)
+    (property "Reference" "#PWR075" (at 247.65 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 247.65 113.03 0)
@@ -9187,7 +9309,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR073") (unit 1)
+          (reference "#PWR075") (unit 1)
         )
       )
     )
@@ -9196,7 +9318,7 @@
   (symbol (lib_id "power:GND") (at 85.09 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dfbf3128-49e7-49e4-9f77-7341d808b936)
-    (property "Reference" "#PWR026" (at 85.09 41.91 0)
+    (property "Reference" "#PWR027" (at 85.09 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 85.09 39.37 0)
@@ -9212,7 +9334,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR026") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -9221,7 +9343,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:LED_Small") (at 147.32 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0c8aa6e-5ee6-4d81-a457-fda296d1907e)
-    (property "Reference" "D12" (at 144.78 143.51 0)
+    (property "Reference" "D13" (at 144.78 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "WHITE" (at 149.86 144.78 0)
@@ -9244,7 +9366,39 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "D12") (unit 1)
+          (reference "D13") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Patchwork Playground Symbols:D_Schottky_Small") (at 38.1 158.75 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e304fb02-32b3-42e7-9f4a-3fce88bc9c62)
+    (property "Reference" "D1" (at 40.64 156.21 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "B5817WS" (at 43.18 161.29 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Patchwork Playground Footprints:D_SOD-323" (at 38.1 158.75 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 38.1 158.75 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MPN" "C5178966" (at 38.1 158.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "EXTENDED?" "YES" (at 38.1 158.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c8856df8-5e02-49a7-84f6-1969c6f603b5))
+    (pin "2" (uuid 046dec50-2a52-4480-8b01-2aabe50edeb3))
+    (instances
+      (project "Patchwork Playground"
+        (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -9253,7 +9407,7 @@
   (symbol (lib_id "power:+BATT") (at 62.23 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e326a04d-69ca-4f3f-aa7f-77d044898a4f)
-    (property "Reference" "#PWR016" (at 62.23 93.98 0)
+    (property "Reference" "#PWR018" (at 62.23 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+BATT" (at 62.23 85.09 0)
@@ -9269,7 +9423,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -9375,7 +9529,7 @@
   (symbol (lib_id "power:GND") (at 196.85 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e894e557-7c62-441d-b4d1-b185e7eb2476)
-    (property "Reference" "#PWR058" (at 196.85 161.29 0)
+    (property "Reference" "#PWR060" (at 196.85 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 196.85 158.75 0)
@@ -9391,7 +9545,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR058") (unit 1)
+          (reference "#PWR060") (unit 1)
         )
       )
     )
@@ -9400,7 +9554,7 @@
   (symbol (lib_id "power:GND") (at 246.38 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9c298d1-a4c1-4162-a5b3-4070350c465b)
-    (property "Reference" "#PWR071" (at 246.38 57.15 0)
+    (property "Reference" "#PWR073" (at 246.38 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 246.38 54.61 0)
@@ -9416,7 +9570,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR071") (unit 1)
+          (reference "#PWR073") (unit 1)
         )
       )
     )
@@ -9425,7 +9579,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 69.85 59.69 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid ec925745-d0b4-46a0-9d87-6d7e011f2913)
-    (property "Reference" "J5" (at 69.85 57.15 0)
+    (property "Reference" "J6" (at 69.85 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PADS" (at 71.12 64.77 0)
@@ -9448,7 +9602,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "J5") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -9584,7 +9738,7 @@
   (symbol (lib_id "power:VDD") (at 190.5 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4fd3e51-8c0c-4fd5-8b0a-cbfd836f0466)
-    (property "Reference" "#PWR056" (at 190.5 102.87 0)
+    (property "Reference" "#PWR058" (at 190.5 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 190.5 95.25 0)
@@ -9600,7 +9754,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )
@@ -9634,7 +9788,7 @@
   (symbol (lib_id "power:VDD") (at 153.67 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6efd080-36ef-4ec9-b43c-6bf8bbfcec43)
-    (property "Reference" "#PWR049" (at 153.67 107.95 0)
+    (property "Reference" "#PWR051" (at 153.67 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 153.67 100.33 0)
@@ -9650,7 +9804,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
       )
     )
@@ -9691,7 +9845,7 @@
   (symbol (lib_id "power:GND") (at 81.28 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f9803f8b-66ba-4f29-b70d-048b46505539)
-    (property "Reference" "#PWR022" (at 81.28 74.93 0)
+    (property "Reference" "#PWR024" (at 81.28 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 81.28 72.39 0)
@@ -9707,7 +9861,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -9780,7 +9934,7 @@
   (symbol (lib_id "power:GND") (at 129.54 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff099af9-c7c7-42b0-9469-9cb68a8a1cfa)
-    (property "Reference" "#PWR042" (at 129.54 93.98 0)
+    (property "Reference" "#PWR044" (at 129.54 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 91.44 0)
@@ -9796,7 +9950,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
     )
@@ -9805,7 +9959,7 @@
   (symbol (lib_id "Patchwork Playground Symbols:USB_C_Receptacle_USB2.0") (at 29.21 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ffddc570-8172-4eab-97a2-07f2520d4e93)
-    (property "Reference" "J2" (at 29.21 20.32 0)
+    (property "Reference" "J3" (at 29.21 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB_C_Receptacle_USB2.0" (at 29.21 22.86 0)
@@ -9843,7 +9997,7 @@
     (instances
       (project "Patchwork Playground"
         (path "/40bfffd3-6c9a-4771-a862-da52683b50bd"
-          (reference "J2") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
