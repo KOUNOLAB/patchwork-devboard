@@ -7230,6 +7230,9 @@
       )
     )
   )
+  (gr_text "JLCJLCJLCJLC" (at 153.200909 128.785418) (layer "B.SilkS") (tstamp 3d0a39de-130d-4f3a-8e93-238753d1ebf8)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
   (gr_text locked "Development board - not for consumer use" (at 185.8 100.258819) (layer "B.SilkS") (tstamp 7cad03b6-07ce-4314-9701-0116f4141fef)
     (effects (font (face "Open Sans Light") (size 2.5 2.5) (thickness 0.5)) (justify left bottom mirror))
     (render_cache "Development board - not for consumer use" 0
