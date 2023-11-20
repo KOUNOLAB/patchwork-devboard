@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Patchwork Playground Symbols")(type "KiCad")(uri "${KIPRJMOD}/Data/Patchwork Playground Symbols.kicad_sym")(options "")(descr ""))
+)
