@@ -5310,7 +5310,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 50.8 60.96 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 254803fc-71dc-4c3c-9030-87efb0dfb759)
     (property "Reference" "J3" (at 50.8 58.42 0)
       (effects (font (size 1.27 1.27)))
@@ -5902,7 +5902,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 125.73 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 41830ad0-6f05-4149-8491-e7fb4f17386a)
     (property "Reference" "TP4" (at 124.46 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6639,7 +6639,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 140.97 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 5ea7e3d6-e58b-435f-a92b-c49271064efd)
     (property "Reference" "TP7" (at 139.7 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6670,7 +6670,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 109.22 182.88 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 5f5677cb-3173-4604-b84f-d323e35bfc54)
     (property "Reference" "TP1" (at 110.49 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6865,7 +6865,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 146.05 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 6d2b733d-e0b1-46f9-ac60-4c105e310e77)
     (property "Reference" "TP8" (at 144.78 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6896,7 +6896,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 156.21 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 6d39bfb3-37df-42a1-8f1b-efa3ac083de4)
     (property "Reference" "TP10" (at 154.94 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7261,7 +7261,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 161.29 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 8775062a-4e80-4414-ab62-4bf678036b91)
     (property "Reference" "TP11" (at 160.02 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7399,7 +7399,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 115.57 182.88 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 8b022626-231f-4af2-b751-404696bc4c07)
     (property "Reference" "TP2" (at 116.84 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8065,7 +8065,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 130.81 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid a7bf3f05-c6b0-4807-b686-36a8fbd982db)
     (property "Reference" "TP5" (at 129.54 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8274,7 +8274,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 166.37 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b686e4ba-745d-45dc-b3c6-308f384dd3fe)
     (property "Reference" "TP12" (at 165.1 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8337,7 +8337,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 26.67 160.02 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid bc9d5896-f2b3-4ca1-ae77-a8f65ec6c99b)
     (property "Reference" "J1" (at 26.67 157.48 0)
       (effects (font (size 1.27 1.27)))
@@ -8394,7 +8394,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 135.89 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid bdb68aae-0bd6-4a45-bc9a-9431d52d4600)
     (property "Reference" "TP6" (at 134.62 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8571,7 +8571,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 120.65 182.88 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c392384e-114c-4af8-9b48-271baa2289e8)
     (property "Reference" "TP3" (at 121.92 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8795,7 +8795,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:TestPoint") (at 151.13 181.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid caac2431-0180-4c81-af6b-ee0b9801c6e0)
     (property "Reference" "TP9" (at 149.86 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -9423,7 +9423,7 @@
   )
 
   (symbol (lib_id "Patchwork Playground Symbols:Conn_01x02_Pin") (at 69.85 59.69 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid ec925745-d0b4-46a0-9d87-6d7e011f2913)
     (property "Reference" "J5" (at 69.85 57.15 0)
       (effects (font (size 1.27 1.27)))
