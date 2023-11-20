@@ -31,9 +31,9 @@
     (thermal_bridge_angle 45) (tstamp 6427545f-edd7-4684-8dec-60296cb715aa))
   (pad "5" smd rect (at 5 -0.075 180) (size 1.8 2.65) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 96714679-c759-4a9e-8fb4-7f96ef871dbb))
-  (model "${KIPRJMOD}/Data/Patchwork Playground Models/ShittyShittyPogoModel.step"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/Data/Patchwork Playground Models/POGO5.step"
+    (offset (xyz 0 -0.1 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )
