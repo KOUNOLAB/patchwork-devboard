@@ -2851,7 +2851,7 @@
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "EXTENDED?" "YES")
-    (property "MPN" "C285966")
+    (property "MPN" "C1034")
     (property "Sheetfile" "Patchwork Playground.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Inductor, small symbol")
@@ -2862,7 +2862,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 694326e4-3f06-4d83-b018-39bf4daaec90)
     )
-    (fp_text value "2u2H" (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "4u7H" (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 662ccd81-ee00-4404-b2a6-5623ae916ec4)
     )
@@ -2907,7 +2907,7 @@
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "EXTENDED?" "")
-    (property "MPN" "C22935")
+    (property "MPN" "C22976")
     (property "Sheetfile" "Patchwork Playground.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, small symbol")
@@ -2918,7 +2918,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3372d829-df87-46c8-a39b-b38a36a6309b)
     )
-    (fp_text value "1M" (at 0 1.43 180) (layer "F.Fab") hide
+    (fp_text value "2M" (at 0 1.43 180) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 469c87ea-e69d-4489-afe3-cee8234f667c)
     )
@@ -2963,7 +2963,7 @@
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "EXTENDED?" "")
-    (property "MPN" "C23137")
+    (property "MPN" "C23178")
     (property "Sheetfile" "Patchwork Playground.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, small symbol")
@@ -2974,7 +2974,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4932de11-73ef-4068-88bf-ed40fc93dd1f)
     )
-    (fp_text value "330k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "470k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1d305a29-fe04-4322-8a8d-9ad799e0aa1c)
     )
